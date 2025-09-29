@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "hours": 9,
+    "minutes": 0,
+    "daysOfWeek": [1,3,5,7],
+    "image": false,
+    "button": {
+      "text": {
+        "ar-SA": "افتح التطبيق",
+        "de-DE": "App öffnen",
+        "en-US": "Open app",
+        "es-ES": "Abrir app",
+        "fr-FR": "Ouvrir l'application",
+        "hi-IN": "ऐप खोलें",
+        "id-ID": "Buka aplikasi",
+        "ja-JP": "アプリを開く",
+        "ko-KR": "앱 열기",
+        "pt-PT": "Abrir app",
+        "th-TH": "เปิดแอป",
+        "zh-CN": "打开应用",
+        "vi-VN": "Mở app"
+      }
+    },
+    "title": {
+  "ar-SA": "تابع عملك",
+  "de-DE": "Setze deine Arbeit fort",
+  "en-US": "Continue your work",
+  "es-ES": "Continúa tu trabajo",
+  "fr-FR": "Poursuivez votre travail",
+  "hi-IN": "अपना काम जारी रखें",
+  "id-ID": "Lanjutkan pekerjaan Anda",
+  "ja-JP": "作業を続けてください",
+  "ko-KR": "작업을 계속하세요",
+  "pt-PT": "Continue o seu trabalho",
+  "th-TH": "ทำงานของคุณต่อไป",
+  "zh-CN": "继续你的工作",
+  "vi-VN": "Tiếp tục công việc của bạn"
+},
+    "titleSub": {
+  "ar-SA": "عد للحفاظ على النقر التلقائي وتوفير الوقت",
+  "de-DE": "Kehre zurück, um automatisches Klicken aufrechtzuerhalten und Zeit zu sparen",
+  "en-US": "Come back to maintain auto-clicking and save time",
+  "es-ES": "Vuelve para mantener el clic automático y ahorrar tiempo",
+  "fr-FR": "Revenez pour maintenir le clic automatique et gagner du temps",
+  "hi-IN": "वापस आएं ताकि ऑटो-क्लिक जारी रहे और समय बच सके",
+  "id-ID": "Kembali untuk menjaga auto-click dan menghemat waktu",
+  "ja-JP": "自動クリックを維持して時間を節約するために戻ってきてください",
+  "ko-KR": "자동 클릭을 유지하고 시간을 절약하려면 돌아오세요",
+  "pt-PT": "Volte para manter o clique automático e economizar tempo",
+  "th-TH": "กลับมาเพื่อคงการคลิกอัตโนมัติและประหยัดเวลา",
+  "zh-CN": "回来保持自动点击并节省时间",
+  "vi-VN": "Quay lại để duy trì thao tác tự động và tiết kiệm thời gian"
+}
+
+  }
+]
